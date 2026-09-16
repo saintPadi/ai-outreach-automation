@@ -1,0 +1,11 @@
+{
+  "from_name": "Your Name",
+  "from_email": "you@yourcompany.com",
+  "title": "Your Title",
+  "phone": "555-555-5555",
+  "company": "Your Company Inc.",
+  "website": "www.yourcompany.com",
+  "booking_link": "",
+  "mailing_address": "Street Address, City, Province, Postal Code",
+  "_note": "booking_link is optional; leave \"\" if none. mailing_address appears in the CASL footer of every email -- required by Canadian anti-spam law, don't drop it without a compliant substitute."
+}
