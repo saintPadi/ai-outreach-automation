@@ -1,6 +1,6 @@
 # AI Outreach Automation
 
-A [Claude Code](https://claude.com/claude-code) **skill** that turns a lead list into personalized, legally-compliant cold-outreach emails — governed end to end by a structured prompt system rather than a one-off prompt. Built for [Ready Konnect Inc.](https://www.readykonnect.ca), a Southern Ontario staffing agency, consuming leads produced by [`gta-manufacturing-leads-scraper`](https://github.com/saintPadi/gta-manufacturing-leads-scraper).
+A [Claude Code](https://claude.com/claude-code) **skill** that turns a lead list into personalized, legally-compliant cold-outreach emails — governed end to end by a structured prompt system rather than a one-off prompt. 
 
 This repo is less "a script that calls an LLM" and more a small case study in **prompt engineering as a discipline**: a reusable prompt library, explicit guardrails, and an automated QA pass that checks the model's own output before it's allowed to ship.
 
